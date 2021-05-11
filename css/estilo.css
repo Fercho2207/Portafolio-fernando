@@ -355,9 +355,11 @@ main#corporate section#works-corporate article nav a {width: 45%;margin: 1%; }
 
 
 /* MAIN SECTION DIGITAL ILUSTRATION */
-main#digital section#works-digital article nav {margin: 0px 0px 0px 107px;}
-main#digital section#works-digital article nav a { width:32% ;margin: 1%;}
-/*Main SECTION CORPORATE IMAGE*/
+main#digital section#digital-ilustration article div#info-digital { width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px;}
+main#digital section#digital-ilustration article div#info-digital h2 { font-size: 35px;color: #FFE822;font-weight: 700;padding: 0px 0px 11px 0px; }
+main#digital section#digital-ilustration article div#info-digital p { font-size: 18px; padding: 18px 0 0; color: #fff; }
+main#digital section#works-digital article nav { margin: 0px 0px 0px 0px;}
+main#digital section#works-digital article nav a { width:82% ;margin: 0 auto 25px;float:none; display:block;}
 /*Main SECTION CORPORATE IMAGE*/
 main#corporate section#corporate-image article div#info-corporate {width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px; }
 main#corporate section#corporate-image article div#info-corporate h2 {font-size: 35px;color: #FFE822;font-weight: 700;padding: 0px 0px 11px 0px; }
@@ -372,7 +374,11 @@ main#corporate section#works-corporate article nav a {width: 82%;margin: 0 auto 
 @media only screen and (max-width: 599px){ main section#projects div#pro-digital figure img {height: 100%;width: 199px;border-radius: 20px;} 
 
 /* MAIN SECTION DIGITAL ILUSTRATION */
-
+main#digital section#digital-ilustration article div#info-digital { width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px;}
+main#digital section#digital-ilustration article div#info-digital h2 { font-size: 35px;color: #FFE822;font-weight: 700;padding: 0px 0px 11px 0px; }
+main#digital section#digital-ilustration article div#info-digital p { font-size: 18px; padding: 18px 0 0; color: #fff; }
+main#digital section#works-digital article nav { margin: 0px 0px 0px 0px;}
+main#digital section#works-digital article nav a { width:90% ;margin: 0 auto 25px;float:none; display:block;}
 
 /*Main SECTION CORPORATE IMAGE*/
 main#corporate section#corporate-image article div#info-corporate {width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px; }
@@ -388,7 +394,11 @@ main section#banner-slider article.slick-slider figure#slide-01 h2 {font-size: 5
 main section#profile article div#about-info h5 {font-size: 16px;font-weight: 400;line-height: 30px;color: #fff;height: auto;width: 76%;float: none;margin: 23px 0px 0px 40px;}
 
 /* MAIN SECTION DIGITAL ILUSTRATION */
-main#digital section#works-digital article nav a { width:47% ;margin: 1.2%;}
+main#digital section#digital-ilustration article div#info-digital { width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px;}
+main#digital section#digital-ilustration article div#info-digital h2 { font-size: 35px;color: #FFE822;font-weight: 700;padding: 0px 0px 11px 0px; }
+main#digital section#digital-ilustration article div#info-digital p { font-size: 18px; padding: 18px 0 0; color: #fff; }
+main#digital section#works-digital article nav { margin: 0px 0px 0px 0px;}
+main#digital section#works-digital article nav a { width:96% ;margin: 1.2%;}
 /*Main SECTION CORPORATE IMAGE*/
 main#corporate section#corporate-image article div#info-corporate {width: 75%;height: auto;position: relative;float: left;margin: 0;padding: 70px 0px 0px 25px; }
 main#corporate section#corporate-image article div#info-corporate h2 {font-size: 35px;color: #FFE822;font-weight: 700;padding: 0px 0px 11px 0px; }
